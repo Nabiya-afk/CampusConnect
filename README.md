@@ -107,11 +107,8 @@ It contains:
 ### Student Events
 ![Student Events](screenshots/events.png)
 
-### Admin Login
-![Admin Login](screenshots/adminlogin.png)
-
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admindashboard.png)
+![Admin Dashboard](screenshots/admindashbaord.png)
 
 ## 9. GitHub Repository
 
