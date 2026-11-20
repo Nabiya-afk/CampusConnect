@@ -93,7 +93,25 @@ It contains:
 
 ## 8. Screenshots
 
-Application screenshots are included in the project documentation. Additional screenshots can be added to a repository folder named `screenshots`.
+## Application Screenshots
+
+### Home Page
+![Home Page](screenshots/homepage.png)
+
+### Student Login
+![Student Login](screenshots/studentlogin.png)
+
+### Student Dashboard
+![Student Dashboard](screenshots/studentdashboard.png)
+
+### Student Events
+![Student Events](screenshots/events.png)
+
+### Admin Login
+![Admin Login](screenshots/adminlogin.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admindashboard.png)
 
 ## 9. GitHub Repository
 
