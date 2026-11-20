@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/web/index.html</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/src/java/com/campusconnect/DBConnection.java</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/src/java/com/campusconnect/DBConnectionTest.java</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/src/java/com/campusconnect/Event.java</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/src/java/com/campusconnect/EventDAO.java</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/src/java/com/campusconnect/AddEventServlet.java</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/web/add-event.jsp</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/src/java/com/campusconnect/ViewEventsServlet.java</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/web/view-events.jsp</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/src/java/com/campusconnect/EditEventServlet.java</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/web/edit-event.jsp</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/src/java/com/campusconnect/DeleteEventServlet.java</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/web/student-register.jsp</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/src/java/com/campusconnect/StudentRegisterServlet.java</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/src/java/com/campusconnect/Student.java</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/src/java/com/campusconnect/StudentDAO.java</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/web/student-login.jsp</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/src/java/com/campusconnect/StudentLoginServlet.java</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/web/student-dashboard.jsp</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/src/java/com/campusconnect/StudentEventsServlet.java</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/web/student-events.jsp</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/src/java/com/campusconnect/StudentEventRegisterServlet.java</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/src/java/com/campusconnect/MyRegistrationsServlet.java</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/web/my-registrations.jsp</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/src/java/com/campusconnect/Admin.java</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/src/java/com/campusconnect/AdminDAO.java</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/src/java/com/campusconnect/AdminLoginServlet.java</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/web/admin-login.jsp</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/web/admin-dashboard.jsp</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/src/java/com/campusconnect/AdminParticipantsServlet.java</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/web/admin-participants.jsp</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/src/java/com/campusconnect/LogoutServlet.java</file>
+            <file>file:/C:/Users/Nabiya/OneDrive/Documents/NetBeansProjects/CampusConnect1/src/java/com/campusconnect/CancelRegistrationServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
